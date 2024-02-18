@@ -4,6 +4,5 @@
 2. wget https://github.com/Gebu8f64795/Py-install/releases/download/v2.0/install-py.sh && chmod u+x install-py.sh && ./install-py.sh
    
    or
-1. wget https://github.com/Gebu8f64795/Py-install/releases/download/v2.0/install-pip.sh
-2. chmod u+x install-pip.sh
-3. ./install-pip.sh
+1. sudo -i
+2. wget https://github.com/Gebu8f64795/Py-install/releases/download/v2.0/install-pip.sh && chmod u+x install-pip.sh && ./install-pip.sh,
